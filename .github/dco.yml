@@ -1,1 +1,2 @@
-require_signoff_for_members: false
+require:
+  members: false
